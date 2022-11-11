@@ -1,0 +1,22 @@
+{
+  "name": "crud-application",
+  "version": "1.0.0",
+  "description": "crud app using node.js and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud-app"
+  ],
+  "author": "Anju Priya V",
+  "license": "ISC",
+  "dependencies": {
+    "args": "^5.0.3",
+    "chalk": "^4.1.2",
+    "cli-spinner": "^0.2.10",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.10",
+    "yargs": "^17.2.1"
+  }
+}
